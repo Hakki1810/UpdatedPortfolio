@@ -1,3 +1,6 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap");
+
 root {
   --mainColor: #eaeaea;
   --secondaryColor: #fff;
@@ -180,8 +183,8 @@ h6 {
   display: block;
   margin: 0 auto;
 
-  height: 200px;
-  width: 200px;
+  height: 400px;
+  width: 400px;
   object-fit: cover;
   border: 2px solid var(--borderColor);
 }
@@ -236,6 +239,8 @@ h6 {
   background-color: var(--previewBg);
   padding: 15px;
   position: relative;
+  right: -700px;
+  top: -200px;
 }
 
 .corner {
