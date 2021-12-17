@@ -2,7 +2,7 @@
 
 ## Description
 
-Built a Portfolio Webpage for an employer to see. It has all the neccesary information for an employer to look at when hiring someone.
+Updated Portfolio page that shows all of my previous projects that I have worked on. In addition, my current skills and what are my ambitions and a downloadable link where employers can download my resume. Lastly, a contact email and form are provided so that future employers could contact me easily.
 
 ## What have we done
 
