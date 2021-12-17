@@ -6,12 +6,12 @@ Updated Portfolio page that shows all of my previous projects that I have worked
 
 ## What have we done
 
-1. Added a recent photo of myself.
-2. Added an about-me section which has a brief description about for the employer to see.
-3. Added a work section to preview all the other projects I have worked on.
+1. Added a introductory section where I introduce myself and and what I currently do, in addition a recent photo is shown.
+2. A new section is also added where more information about me is shown alongside the downloadable resume.
+3. My current skills in coding languages is shown as well, this section shows what languages I am capable of.
 4. Provided a contact me section in order for the employer to contact me if needed.
 5. Provided a responsive UI that adapts on various screens and devices.
-6. When a specific section is clicked in a the navigation center then the UI scrolls to the corresponding section.
+6. When the contact button is clicked in the navigation center then the UI smoothly scrolls to the corresponding section.
 
 ## Screenshot
 
