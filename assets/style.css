@@ -397,7 +397,7 @@ h6 {
 }
 @media screen and (max-width: 1200px) {
   .main-container {
-    width: 95%;
+    width: 100%;
   }
 }
 
@@ -423,14 +423,14 @@ h6 {
 @media screen and (max-width: 400px) {
   #preview-shadow {
     max-width: 280px;
-    height: 180px;
+    height: 220px;
     padding-left: 10px;
     padding-top: 10px;
   }
 
   #preview {
-    width: 200px;
-    right: 100px;
+    width: 370px;
+    right: 70px;
     margin-top: 150px;
   }
 }
