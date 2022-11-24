@@ -15,7 +15,7 @@ Updated Portfolio page that shows all of my previous projects that I have worked
 
 ## Screenshot
 
-![Getting Started](./assets/images/screenshotportfolio.png)
+![Getting Started](.assets/images/screenshotportfolio.png)
 
 ## Link to the deployed application
 
