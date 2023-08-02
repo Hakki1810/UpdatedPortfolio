@@ -183,7 +183,7 @@ h6 {
   display: block;
   margin: 0 auto;
 
-  height: 450px;
+  height: 550px;
   width: 400px;
   object-fit: cover;
   border: 2px solid var(--borderColor);
@@ -235,13 +235,14 @@ h6 {
 }
 
 #preview {
-  width: 300px;
+  width: 500px;
   border: 1.5px solid #17a2b8;
   background-color: var(--previewBg);
   padding: 15px;
   position: relative;
-  right: -700px;
-  top: -400px;
+  right: -600px;
+  top: -500px;
+  text-align: justify;
 }
 
 .corner {
@@ -279,6 +280,7 @@ h6 {
   padding-bottom: 50px;
   padding-top: 50px;
   gap: 100px;
+  text-align: justify;
 }
 
 #skills {
@@ -366,7 +368,7 @@ h6 {
 }
 
 .links {
-  padding-top: 50px;
+  padding-top: 35px;
   width: 50%;
 }
 
